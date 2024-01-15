@@ -5,15 +5,9 @@
     background-color: black;
 }
 @font-face {
-    font-family: 'IranNastaliq' 'yekan';
-    src: url('../fonts/IranNastaliq.woff2') format('woff2');
+    font-family: 'IranNastaliq' 'yekan' ;
+    src: url('../fonts/IranNastaliq.woff2');
     src: url('../fonts/Yekan.woff2');
-    font-weight: normal;
-    font-style: normal;
-    text-rendering: optimizeLegibility;
-	font-display: auto;
-    font-family: 'yekan';
-  
 }
 
 
