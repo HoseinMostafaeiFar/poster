@@ -4,12 +4,13 @@
     box-sizing: border-box;
     background-color: black;
 }
-@font-face {
-    font-family: IranNastaliq, yekan ;
-    src: url('../fonts/IranNastaliq.woff2');
-    src: url('../fonts/Yekan.woff2');
-}
 
+@font-face {
+    font-family:"IranNastaliq";
+    src: url(../fonts/IranNastaliq.woff2);
+    font-family:yekan;
+    src: url(../fonts/Yekan.woff2);
+}
 
 .poster{
     margin: 50px auto;
@@ -33,5 +34,5 @@
 
 .poster q{
     color: white;
-    font-family: 'yekan';
+    font-family:'yekan';
 }
