@@ -8,7 +8,7 @@
 @font-face {
     font-family:"IranNastaliq";
     src: url(../fonts/IranNastaliq.woff2);
-    font-family:yekan;
+    font-family:"yekan";
     src: url(../fonts/Yekan.woff2);
 }
 
@@ -28,11 +28,13 @@
     text-align: center;
     padding-top: 20px;
     line-height: 50px;
-    font-family: 'IranNastaliq';
     font-size: 20px;
 }
 
 .poster q{
     color: white;
     font-family:'yekan';
+}
+p{
+    font-family: 'IranNastaliq';
 }
