@@ -9,6 +9,8 @@
     src: url('../fonts/IranNastaliq.ttf');
     font-family:'IranNastaliq';
     font-style: normal;
+  }
+  @font-face {
     src: url('../fonts/Yekan.ttf');
     font-family:'Yekan';
     font-style: normal;
