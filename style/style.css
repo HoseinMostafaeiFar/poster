@@ -6,15 +6,18 @@
 }
 
 @font-face {
-    src: url('../fonts/IranNastaliq.ttf');
-    font-family:'IranNastaliq';
-    font-style: normal;
-  }
-  @font-face {
-    src: url('../fonts/Yekan.ttf');
-    font-family:'Yekan';
-    font-style: normal;
-  }
+    font-family: "gandom";
+    src: url("../asset/font/Gandom/Gandom.woff") format("woff"), url("../asset/font/Gandom/Gandom.eot") format("eot"), url("../asset/font/Gandom/Gandom.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'iranSans';
+    src: url('../asset/font/iranSans/IRANSansWeb.eot') format('eot'), url('../asset/font/iranSans/IRANSansWeb.woff') format('woff'), url('../asset/font/iranSans/IRANSansWeb.woff2') format('woff2'), url('asset/font/iranSans/IRANSansWeb_Bold.eot') format('eot'), url('asset/font/iranSans/IRANSansWeb_Bold.woff') format('woff'), url('asset/font/iranSans/IRANSansWeb_Bold.woff2') format('woff2'), url('asset/font/iranSans/IRANSansWeb_Light.eot') format('eot'), url('asset/font/iranSans/IRANSansWeb_Light.woff') format('woff'), url('asset/font/iranSans/IRANSansWeb_Light.woff2') format('woff2');
+}
+@font-face {
+    font-family: "Lalezar";
+    src: url("../asset/font/lalezar/Lalezar-Regular.woff") format("woff"), url("../asset/font/lalezar/Lalezar\ Regular.otf") format("otf");
+}
 
 .poster{
     margin: 50px auto;
@@ -37,8 +40,8 @@
 
 .poster q{
     color: white;
-    font-family:'Yekan';
+    font-family:'gandom';
 }
 p{
-    font-family: 'IranNastaliq';
+    font-family: 'Lalezar';
 }
