@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: "gandom";
-    src: url("../asset/font/Gandom/Gandom.woff") format("woff"), url("../asset/font/Gandom/Gandom.eot") format("eot"), url("../asset/font/Gandom/Gandom.ttf") format("ttf");
+    src: url("/poster/asset/font/Gandom/Gandom.woff") format("woff"), url("/poster/asset/font/Gandom/Gandom.eot") format("eot"), url("/poster/asset/font/Gandom/Gandom.ttf") format("ttf");
 }
 
 @font-face {
     font-family: 'iranSans';
-    src: url('../asset/font/iranSans/IRANSansWeb.eot') format('eot'), url('../asset/font/iranSans/IRANSansWeb.woff') format('woff'), url('../asset/font/iranSans/IRANSansWeb.woff2') format('woff2'), url('asset/font/iranSans/IRANSansWeb_Bold.eot') format('eot'), url('asset/font/iranSans/IRANSansWeb_Bold.woff') format('woff'), url('asset/font/iranSans/IRANSansWeb_Bold.woff2') format('woff2'), url('asset/font/iranSans/IRANSansWeb_Light.eot') format('eot'), url('asset/font/iranSans/IRANSansWeb_Light.woff') format('woff'), url('asset/font/iranSans/IRANSansWeb_Light.woff2') format('woff2');
+    src: url('/poster/asset/font/iranSans/IRANSansWeb.eot') format('eot'), url('/poster/asset/font/iranSans/IRANSansWeb.woff') format('woff'), url('/poster/asset/font/iranSans/IRANSansWeb.woff2') format('woff2');
 }
 @font-face {
     font-family: "Lalezar";
