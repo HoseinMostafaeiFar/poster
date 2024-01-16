@@ -16,7 +16,7 @@
 }
 @font-face {
     font-family: "Lalezar";
-    src: url("../asset/font/lalezar/Lalezar-Regular.woff") format("woff"), url("../asset/font/lalezar/Lalezar\ Regular.otf") format("otf");
+    src: url("/poster/asset/font/lalezar/Lalezar-Regular.woff") format("woff"), url("/poster/asset/font/lalezar/Lalezar\ Regular.otf") format("otf");
 }
 
 .poster{
